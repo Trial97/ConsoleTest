@@ -1,0 +1,10 @@
+admin root -
+admin root 
+set_balance {}
+set_balance {"Account":"1001","BalanceType":"*voice"}
+set_balance {\"Account\":\"1001\",\"BalanceType\":\"*voice\"}
+set_balance help
+set_balance -h
+set_balance --Account=1001
+set_balance --Account=1001s
+set_balance --Account=1001s {}

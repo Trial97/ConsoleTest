@@ -1,0 +1,7 @@
+sdasd
+set_balance -Account=1001 -BalanceType=*voice -Balance=BalacneID:1
+set_balance -Account=1001 -BalanceType=*voice -Balance=ID:1
+set_balance -Account=1001 -BalanceType=*monetary -Balance=ID:1
+set_balance -Account=1001 -BalanceType=*monetary -Value=10
+help setb
+help set_balance

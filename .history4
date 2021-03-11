@@ -1,0 +1,4 @@
+-Balance
+set_balance  -BalanceType=*monetary -Account=1001 -Balance=ID:1
+set_balance  -BalanceType=*monetary -Account=1001 
+set_balance  -Account=1001 -Balance=ID:1 -BalanceType=*monetary

@@ -1,0 +1,15 @@
+set_balance -Account=1001 -BalanceType=*monetary -Balance=ID:1
+set_balance -Account=1001 -BalanceType=*monetary -Balance=ID:1
+asda
+asda
+
+set_balance -Account=1001 -BalanceType=*monetary -Balance=ID:1
+set_balance -Account=1001 -BalanceType=*monetary -Balance=ID:1
+set_balance -Account=1001 -BalanceType=*monetary -Balance=ID:1
+set_balance -Account=1001 -BalanceType=*monetary -Balance=ID:1
+set_balance -Account=1001 -Balance
+set_balance -Account=1001 -BalanceType=*monetary -Balance=ID:1
+set_balance -Balance=ID:{}
+s
+set_balance -help
+set_balance -help

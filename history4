@@ -1,0 +1,1 @@
+set_balance  -Account=1001 -Balance=ID:1 -BalanceType=*monetary
